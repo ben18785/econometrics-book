@@ -1,0 +1,32 @@
+\contentsline {part}{I\hspace {1em}The basics}{7}
+\contentsline {chapter}{\numberline {1}How to best use this book}{9}
+\contentsline {chapter}{\numberline {2}What is econometrics?}{11}
+\contentsline {chapter}{\numberline {3}Estimators and their purpose}{13}
+\contentsline {section}{\numberline {3.1}Chapter mission statement}{13}
+\contentsline {section}{\numberline {3.2}The goal of this chapter}{13}
+\contentsline {section}{\numberline {3.3}What is an estimator, and why should we care?}{13}
+\contentsline {section}{\numberline {3.4}Models}{15}
+\contentsline {section}{\numberline {3.5}Sampling distributions}{18}
+\contentsline {section}{\numberline {3.6}Good properties of an estimator}{18}
+\contentsline {section}{\numberline {3.7}The central limit theorem}{18}
+\contentsline {part}{II\hspace {1em}Cross sectional data: useful and important}{19}
+\contentsline {chapter}{\numberline {4}When to use Ordinary Least Squares?}{21}
+\contentsline {chapter}{\numberline {5}How to make conclusions - an introduction to hypothesis testing}{23}
+\contentsline {chapter}{\numberline {6}How to interpret regression results}{25}
+\contentsline {chapter}{\numberline {7}Testing the Gauss-Markov assumptions, and what to do if they are violated}{27}
+\contentsline {chapter}{\numberline {8}Instrumental variables: allowing inference in difficult circumstances}{29}
+\contentsline {chapter}{\numberline {9}Monte Carlo: How to test the quality of an estimator}{31}
+\contentsline {part}{III\hspace {1em}Time series: harder to master, but necessary}{33}
+\contentsline {chapter}{\numberline {10}Why and how do we need to think about time series differently to cross sectional?}{35}
+\contentsline {chapter}{\numberline {11}The basic building blocks of time series models: autoregressive and moving averages}{37}
+\contentsline {chapter}{\numberline {12}Testing for stationarity and what to do with non-stationary data}{39}
+\contentsline {chapter}{\numberline {13}Cointegration: allowing for realism in time series models}{41}
+\contentsline {chapter}{\numberline {14}An introduction to models for real processes: partial adjustment and error-correction models}{43}
+\contentsline {part}{IV\hspace {1em}Panel data: the best of both worlds}{45}
+\contentsline {chapter}{\numberline {15}The benefits of panel data}{47}
+\contentsline {chapter}{\numberline {16}Why do we need more estimators? An introduction to First Differences and Fixed Effects}{49}
+\contentsline {chapter}{\numberline {17}The poor relation: Random Effects}{51}
+\contentsline {part}{V\hspace {1em}A simple new paradigm in estimation: Maximum Likelihood}{53}
+\contentsline {chapter}{\numberline {18}The flaws in the Linear Probability Model}{55}
+\contentsline {chapter}{\numberline {19}Beautifully simple: An introduction to Maximum Likelihood}{57}
+\contentsline {chapter}{\numberline {20}Draw conclusions by likelihood: the Wald, the Score and the LM tests}{59}

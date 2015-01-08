@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Estimators_estimatorEstimate.pdf">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3794"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3794-6"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="158.66224"
+     inkscape:cy="565.30331"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-14.323263"
+       y="335.25027"
+       id="text4705"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4707"
+         x="-14.323263"
+         y="335.25027">Example:</tspan></text>
+    <g
+       id="g4690"
+       transform="matrix(0.23160549,0,0,0.23160549,465.33029,174.58843)">
+      <rect
+         y="140.93361"
+         x="-982.85712"
+         height="245.71429"
+         width="502.85715"
+         id="rect4236"
+         style="fill:#0000ff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4644"
+         y="280.72827"
+         x="-840.14728"
+         style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="280.72827"
+           x="-840.14728"
+           id="tspan4646"
+           sodipodi:role="line">Sample</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="295.12039"
+       y="308.92319"
+       id="text4709"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4711"
+         x="295.12039"
+         y="308.92319">Test scores from</tspan><tspan
+         sodipodi:role="line"
+         x="297.17587"
+         y="327.45163"
+         id="tspan4749">10 randomly chosen </tspan><tspan
+         sodipodi:role="line"
+         x="295.12039"
+         y="345.98007"
+         id="tspan4713">individuals</tspan><tspan
+         sodipodi:role="line"
+         x="295.12039"
+         y="364.50851"
+         id="tspan4715">from a school</tspan></text>
+    <g
+       id="g4695"
+       transform="matrix(0.23160549,0,0,0.23160549,473.41108,175.25015)">
+      <rect
+         y="138.07649"
+         x="-354.28574"
+         height="245.71429"
+         width="502.85715"
+         id="rect4236-4"
+         style="fill:#0000ff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4644-9"
+         y="283.4649"
+         x="-241.04466"
+         style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="283.4649"
+           x="-241.04466"
+           id="tspan4646-4"
+           sodipodi:role="line">Estimator</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="449.76978"
+       y="335.32986"
+       id="text4709-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="449.76978"
+         y="335.32986"
+         id="tspan4715-5">Sample mean</tspan></text>
+    <g
+       id="g4700"
+       transform="matrix(0.23160549,0,0,0.23160549,480.83012,175.25016)">
+      <rect
+         y="138.07648"
+         x="277.14285"
+         height="245.71429"
+         width="502.85715"
+         id="rect4236-4-0"
+         style="fill:#0000ff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4644-9-8"
+         y="283.46487"
+         x="402.82141"
+         style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="283.46487"
+           x="402.82141"
+           id="tspan4646-4-8"
+           sodipodi:role="line">Estimate</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="602.70007"
+       y="317.9884"
+       id="text4709-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="604.75555"
+         y="317.9884"
+         id="tspan4715-5-7">Mean school test score </tspan><tspan
+         sodipodi:role="line"
+         x="602.70007"
+         y="336.51682"
+         id="tspan5055">estimated</tspan><tspan
+         sodipodi:role="line"
+         x="602.70007"
+         y="355.04526"
+         id="tspan5366">to be 73 %</tspan></text>
+    <g
+       id="g5064"
+       transform="matrix(0.23160549,0,0,0.23160549,456.88651,174.37583)">
+      <rect
+         y="141.85156"
+         x="-1609.8611"
+         height="245.71429"
+         width="502.85715"
+         id="rect4236-1"
+         style="fill:#0000ff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4644-5"
+         y="285.42133"
+         x="-1501.1887"
+         style="font-size:64px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="285.42133"
+           x="-1501.1887"
+           id="tspan4646-2"
+           sodipodi:role="line">Population</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="142.31311"
+       y="290.39478"
+       id="text4709-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="142.31311"
+         y="290.39478"
+         id="tspan4715-2">The test scores from</tspan><tspan
+         sodipodi:role="line"
+         x="142.31311"
+         y="308.92322"
+         id="tspan5051">an entire school of</tspan><tspan
+         sodipodi:role="line"
+         x="142.31311"
+         y="327.45166"
+         id="tspan5053">individuals. Interested</tspan><tspan
+         sodipodi:role="line"
+         x="144.36861"
+         y="345.98007"
+         id="tspan5329">in estimating </tspan><tspan
+         sodipodi:role="line"
+         x="144.36861"
+         y="364.50851"
+         id="tspan5411">mean school </tspan><tspan
+         sodipodi:role="line"
+         x="142.31311"
+         y="383.03696"
+         id="tspan5333">test score</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
+       d="m 200.49832,235.68382 37.19687,0"
+       id="path5413"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g5064"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4690"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
+       d="m 354.15966,235.68382 37.1969,-1e-5"
+       id="path5415"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4690"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4695"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
+       d="m 507.82103,235.68382 37.1969,0"
+       id="path5417"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4695"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4700"
+       inkscape:connection-end-point="d4" />
+  </g>
+</svg>
