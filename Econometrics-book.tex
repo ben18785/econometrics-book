@@ -99,7 +99,7 @@ In (\ref{eq:Estimators_modelWageExperienceExample}), we have chosen a straight-l
 
 A model is only as good as the assumptions on which it rests. It might be that IQ test scores are more variable in the US population, than a normal distribution allows. It could be that there are diminishing returns to experience, meaning that the increment to wage for an extra year of work diminishes, dependent on the stage in the particular individual's career; invalidating the assumption of \textit{linearity}.
 
-Much like models assumptions are necessarily simplifying, and therefore \textit{wrong}. However, there is a spectrum of \textit{wrong}. An assumption is good so long as it captures the essence of reality sufficiently to allow the model to be used as is required. If the assumption is too \textit{wrong}, then the model will cease to be useful, and we are forced to go back and examine its foundations.
+Much like models, assumptions are necessarily simplifying, and therefore \textit{wrong}. However, there is a spectrum of \textit{wrong}. An assumption is good so long as it captures the essence of reality sufficiently to allow the model to be used as is required. If the assumption is too \textit{wrong}, then the model will cease to be useful, and we are forced to go back and examine its foundations.
 
 \begin{figure}
 \centering
@@ -108,14 +108,47 @@ Much like models assumptions are necessarily simplifying, and therefore \textit{
 \caption{Left: the normal model for IQ. Right: the linear model between experience and wages, with the error terms $\epsilon_i$ indicated as vertical deviations from the straight line.}\label{fig:Estimators_normalIQLinearWage}
 \end{figure}
 
+The good thing about statistical models is that we can frequently test their foundations (see chapter \ref{chap:ModelTesting}). One way to do this is by asking what is the probability that we would have obtained a sample of data as extreme as the one we happened upon. For example, if we estimated a model for individuals' test scores; resulting in a normal distribution with a mean of 100, and a variance of 100. If we then obtained a further observation for an individual who obtained a score of 120, we could ask, how likely is it that we would have obtained a score more extreme than this from our model? To do this, we would need to work out the corresponding area under such a normal distribution\footnote{Do not worry if you don't understand this, as we will cover hypothesis testing in detail in chapter \ref{chap:ModelTesting}.} (see figure \ref{fig:Estimators_normalIQArea}), which yields a probability of about 2\%. If we had a sample of 100, we would hence expect, if our model was correct, to get results as extreme as ours for only for 1 person in 50. If this pattern was upheld if we collected more sample data, this would make us doubt that our model, and hence the assumptions on which it was formed, are in fact reasonable; prompting an re-examination of the latter.
+
+\begin{figure}
+\centering
+\scalebox{0.6} 
+{\includegraphics{Estimators_normalIQArea.pdf}}
+\caption{A normal distribution for IQ, with mean 100 and variance 100. The blue area represents the probability of obtaining an observation more extreme than 120.}\label{fig:Estimators_normalIQArea}
+\end{figure}
+
 \section{Sampling distributions}
+When we carry out statistical inference we frequently wish to draw conclusions on populations of interest. The only snag is that we usually only have a sample from the wider world. In statistics, we use estimators on our sample to generate estimates of parameters within a model defined for the population as a whole. We then use these estimates to test hypotheses about the wider population, in a process known as \textit{statistical inference} (see figure ). 
+
+For example, imagine that we are wanting to investigate whether parental education positively influences the wage of an individual in the population, on average. We propose that there 'exists' some population process\footnote{Sometimes called \textit{estimands}.} which generates the weekly $\$$-wages of an individual $i$, of the linear form:
+
+\begin{equation}\label{eq:Estimators_wageParentalEducationEstimand}
+wage_i = \alpha + \beta peduc_i + \epsilon_i
+\end{equation}
+
+In (\ref{eq:Estimators_wageParentalEducationEstimand}), $peduc_i$ refers to the parental education of person $i$, perhaps measured in the number of full-time years of schooling completed. The term $\epsilon_i$ refers to the myriad of other individual factors which likely impact an individual's wage. Furthermore, we hypothesise that $\beta>0$, since we expect the impact of parental education to likely raise the prospects of their children, either directly through knowledge passed on, or indirectly through better schooling, and other opportunities. 
+
+Not wanting to exceed our research budget, we are forced to use a sample\footnote{We suppose that each sample can be thought of as being a \textit{random sample}. We will discuss this in chapter \ref{chap:OLS}.} of 100 individuals' data as a window to test whether parental education is an important determinant of an individual's wage they go on to earn. We can then use our sample, along with a particular estimator, for example least squares\footnote{We will cover this in chapter \ref{chap:OLS}.}, to estimate the parameter $\beta$ in the population model given in (\ref{eq:Estimators_wageParentalEducationEstimand}). Notwithstanding the many reasons which likely make this estimation methodology flawed, which we will discuss in detail in later chapters, we obtain an estimate of $\beta=50$; meaning that for each extra year of full-time education completed by parents, an individual on average earns $\$50$ more on average.
+
+Not being content with the results obtained from the first sample, we then go on to obtain a second sample of size 100, on which to estimate $\beta$. Confusingly, we now obtain an estimate of $\beta=5$, which represents an effect only $\frac{1}{10}$ the size of our previous result! 
+
+Undeterred, we go back to the population of interest, each time generating a new sample, and again and again we obtain different estimates of the effect of parental education on individual wages. One time we even obtain a value that is negative! 
+
+You have now probably guessed what has been happening. The relation (\ref{eq:Estimators_wageParentalEducationEstimand}) is only meant to represent the \textit{average} population model; meaning some of the populous gained significantly from their parental education level, whereas for others, the effect was less marked. When we choose a sample of individuals from our population, we are implicitly picking individuals who exhibit heterogeneity in their personal impacts of parental education. Furthermore, this process of sample selection means that the each vat of people is slightly different in terms of their \textit{average} impact of parental education; reflected in the array of estimates we obtained for $\beta$, in each of the different samples.
+
+The process which leads an estimator to produce a variety of parameter estimates is called \textit{sampling error}. 
+
 \section{Good properties of an estimator}
 \section{The central limit theorem}\label{sec:Estimators_CLT}
+\section{Econometrics: GM conditions}
 
 \part{Cross sectional data: useful and important}
-\chapter{When to use Ordinary Least Squares?}
+\chapter{Ordinary Least Squares: what is it, and when to use it?}\label{chap:OLS}
 \chapter{How to make conclusions - an introduction to hypothesis testing}
 \chapter{How to interpret regression results}
+\chapter{Testing a model - does it work?}\label{chap:ModelTesting}
+\section{Hypothesis tests}
+\section{Replicate data generation}
 \chapter{Testing the Gauss-Markov assumptions, and what to do if they are violated}
 \chapter{Instrumental variables: allowing inference in difficult circumstances}
 \chapter{Monte Carlo: How to test the quality of an estimator}

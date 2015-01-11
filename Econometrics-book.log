@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.3.14)  7 JAN 2015 23:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.3.14)  11 JAN 2015 17:45
 entering extended mode
 **Econometrics-book.tex
 (C:\Users\Ben\Dropbox\Econometrics\Econometrics-book.tex
@@ -948,15 +948,12 @@ Package caption Info: End \AtBeginDocument code.
  [2
 
 ]
-(C:\Users\Ben\Dropbox\Econometrics\Econometrics-book.toc [3]
-Underfull \vbox (badness 3724) has occurred while \output is active []
-
- [4])
+(C:\Users\Ben\Dropbox\Econometrics\Econometrics-book.toc [3] [4])
 \tf@toc=\write4
+ [5] [6
 
-[5] [6
-
-] [7] [8]
+]
+[7] [8]
 Chapter 1.
 [9
 
@@ -999,165 +996,178 @@ Overfull \hbox (41.49289pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
+[17 <C:/Users/Ben/Dropbox/Econometrics/Estimators_normalIQLinearWage.pdf>]
+<Estimators_normalIQArea.pdf, id=89, 361.35pt x 250.9375pt>
+File: Estimators_normalIQArea.pdf Graphic file (type pdf)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use Estimators_normalIQArea.pdf>
+Package pdftex.def Info: Estimators_normalIQArea.pdf used on input line 116.
+(pdftex.def)             Requested size: 361.34912pt x 250.93687pt.
+ [18 <C:/Users/Ben/Dropbox/Econometrics/Estimators_normalIQArea.pdf>] [19] [20]
+ [21
 
- [17 <C:/Users/Ben/Dropbox/Econometrics/Estimators_normalIQLinearWage.pdf>] [18
-] [19
-
-]
-[20]
+] [22]
 Chapter 4.
-[21
-
-] [22
+[23
 
 ]
-Chapter 5.
-[23]
-Overfull \hbox (133.07332pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 24 \OT1/pxr/m/sl/10.95 CHAPTER 5.  HOW TO MAKE CONCLUSIONS -
- AN INTRODUCTION TO HYPOTHESIS TESTING
+Overfull \hbox (52.75557pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 24 \OT1/pxr/m/sl/10.95 CHAPTER 4.  ORDINARY LEAST SQUARES: W
+HAT IS IT, AND WHEN TO USE IT?
  []
 
 [24
 
 ]
+Chapter 5.
+[25]
+Overfull \hbox (133.07332pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 26 \OT1/pxr/m/sl/10.95 CHAPTER 5.  HOW TO MAKE CONCLUSIONS -
+ AN INTRODUCTION TO HYPOTHESIS TESTING
+ []
+
+[26
+
+]
 Chapter 6.
-[25] [26
+[27] [28
 
 ]
 Chapter 7.
-[27]
-Overfull \hbox (190.8862pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 28 \OT1/pxr/m/sl/10.95 CHAPTER 7.  TESTING THE GAUSS-MARKOV 
-ASSUMPTIONS, AND WHAT TO DO IF THEY ARE VIOLATED
- []
-
-[28
+[29] [30
 
 ]
 Chapter 8.
-[29]
-Overfull \hbox (170.4265pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 30 \OT1/pxr/m/sl/10.95 CHAPTER 8.  INSTRUMENTAL VARIABLES: A
-LLOWING INFERENCE IN DIFFICULT CIRCUMSTANCES
- []
-
-[30
-
-]
-Chapter 9.
 [31]
-Overfull \hbox (54.37616pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 32 \OT1/pxr/m/sl/10.95 CHAPTER 9.  MONTE CARLO: HOW TO TEST 
-THE QUALITY OF AN ESTIMATOR
+Overfull \hbox (190.8862pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 32 \OT1/pxr/m/sl/10.95 CHAPTER 8.  TESTING THE GAUSS-MARKOV 
+ASSUMPTIONS, AND WHAT TO DO IF THEY ARE VIOLATED
  []
 
 [32
 
-] [33] [34]
-Chapter 10.
-[35
+]
+Chapter 9.
+[33]
+Overfull \hbox (170.4265pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 34 \OT1/pxr/m/sl/10.95 CHAPTER 9.  INSTRUMENTAL VARIABLES: A
+LLOWING INFERENCE IN DIFFICULT CIRCUMSTANCES
+ []
+
+[34
 
 ]
-Overfull \hbox (241.48247pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 36 \OT1/pxr/m/sl/10.95 CHAPTER 10.  WHY AND HOW DO WE NEED T
-O THINK ABOUT TIME SERIES DIFFERENTLY TO CROSS SECTIONAL?
+Chapter 10.
+[35]
+Overfull \hbox (59.85115pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 36 \OT1/pxr/m/sl/10.95 CHAPTER 10.  MONTE CARLO: HOW TO TEST
+ THE QUALITY OF AN ESTIMATOR
  []
 
 [36
 
-]
+] [37] [38]
 Chapter 11.
-[37]
-Overfull \hbox (254.03517pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 38 \OT1/pxr/m/sl/10.95 CHAPTER 11.  THE BASIC BUILDING BLOCK
-S OF TIME SERIES MODELS: AUTOREGRESSIVE AND MOVING AVERAGES
- []
-
-[38
+[39
 
 ]
-Chapter 12.
-[39]
-Overfull \hbox (143.40816pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 40 \OT1/pxr/m/sl/10.95 CHAPTER 12.  TESTING FOR STATIONARITY
- AND WHAT TO DO WITH NON-STATIONARY DATA
+Overfull \hbox (241.48247pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 40 \OT1/pxr/m/sl/10.95 CHAPTER 11.  WHY AND HOW DO WE NEED T
+O THINK ABOUT TIME SERIES DIFFERENTLY TO CROSS SECTIONAL?
  []
 
 [40
 
 ]
-Chapter 13.
+Chapter 12.
 [41]
-Overfull \hbox (88.70673pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 42 \OT1/pxr/m/sl/10.95 CHAPTER 13.  COINTEGRATION: ALLOWING 
-FOR REALISM IN TIME SERIES MODELS
+Overfull \hbox (254.03517pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 42 \OT1/pxr/m/sl/10.95 CHAPTER 12.  THE BASIC BUILDING BLOCK
+S OF TIME SERIES MODELS: AUTOREGRESSIVE AND MOVING AVERAGES
  []
 
 [42
 
 ]
-Chapter 14.
+Chapter 13.
 [43]
-Overfull \hbox (332.89633pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 44 \OT1/pxr/m/sl/10.95 CHAPTER 14.  AN INTRODUCTION TO MODEL
-S FOR REAL PROCESSES: PARTIAL ADJUSTMENT AND ERROR-CORRECTION MODELS
+Overfull \hbox (143.40816pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 44 \OT1/pxr/m/sl/10.95 CHAPTER 13.  TESTING FOR STATIONARITY
+ AND WHAT TO DO WITH NON-STATIONARY DATA
  []
 
 [44
 
-] [45] [46]
-Chapter 15.
-[47
-
-] [48
-
 ]
-Chapter 16.
-[49]
-Overfull \hbox (274.46553pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 50 \OT1/pxr/m/sl/10.95 CHAPTER 16.  WHY DO WE NEED MORE ESTI
-MATORS? AN INTRODUCTION TO FIRST DIFFERENCES AND FIXED EFFECTS
+Chapter 14.
+[45]
+Overfull \hbox (88.70673pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 46 \OT1/pxr/m/sl/10.95 CHAPTER 14.  COINTEGRATION: ALLOWING 
+FOR REALISM IN TIME SERIES MODELS
  []
 
-[50
+[46
+
+]
+Chapter 15.
+[47]
+Overfull \hbox (332.89633pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 48 \OT1/pxr/m/sl/10.95 CHAPTER 15.  AN INTRODUCTION TO MODEL
+S FOR REAL PROCESSES: PARTIAL ADJUSTMENT AND ERROR-CORRECTION MODELS
+ []
+
+[48
+
+] [49] [50]
+Chapter 16.
+[51
+
+] [52
 
 ]
 Chapter 17.
-[51] [52
-
-] [53] [54]
-Chapter 18.
-[55
-
-] [56
-
-]
-Chapter 19.
-[57]
-Overfull \hbox (101.93512pt too wide) has occurred while \output is active
-\OT1/pxr/m/n/10.95 58 \OT1/pxr/m/sl/10.95 CHAPTER 19.  BEAUTIFULLY SIMPLE: AN I
-NTRODUCTION TO MAXIMUM LIKELIHOOD
+[53]
+Overfull \hbox (274.46553pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 54 \OT1/pxr/m/sl/10.95 CHAPTER 17.  WHY DO WE NEED MORE ESTI
+MATORS? AN INTRODUCTION TO FIRST DIFFERENCES AND FIXED EFFECTS
  []
 
-[58
+[54
+
+]
+Chapter 18.
+[55] [56
+
+] [57] [58]
+Chapter 19.
+[59
+
+] [60
 
 ]
 Chapter 20.
+[61]
+Overfull \hbox (101.93512pt too wide) has occurred while \output is active
+\OT1/pxr/m/n/10.95 62 \OT1/pxr/m/sl/10.95 CHAPTER 20.  BEAUTIFULLY SIMPLE: AN I
+NTRODUCTION TO MAXIMUM LIKELIHOOD
+ []
+
+[62
+
+]
+Chapter 21.
 No file Econometrics-book.bbl.
-[59] (C:\Users\Ben\Dropbox\Econometrics\Econometrics-book.aux)
+[63] (C:\Users\Ben\Dropbox\Econometrics\Econometrics-book.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 11816 strings out of 494045
- 166527 string characters out of 3148393
- 351040 words of memory out of 3000000
- 14801 multiletter control sequences out of 15000+200000
- 48218 words of font info for 147 fonts, out of 3000000 for 9000
+ 11826 strings out of 494045
+ 166788 string characters out of 3148393
+ 351080 words of memory out of 3000000
+ 14809 multiletter control sequences out of 15000+200000
+ 48455 words of font info for 148 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  52i,8n,92p,3248b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
@@ -1171,9 +1181,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/pxfonts/rpxr.pfb><C:/Program Files/MiKTeX
 e1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatin
 o/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
 
-Output written on Econometrics-book.pdf (59 pages, 1031374 bytes).
+Output written on Econometrics-book.pdf (63 pages, 1885054 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
+ 281 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

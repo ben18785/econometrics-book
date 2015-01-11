@@ -54,7 +54,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="158.66224"
-     inkscape:cy="565.30331"
+     inkscape:cy="769.20854"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,17 +82,17 @@
     <text
        xml:space="preserve"
        style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="-14.323263"
-       y="335.25027"
+       x="9.9624519"
+       y="202.39311"
        id="text4705"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4707"
-         x="-14.323263"
-         y="335.25027">Example:</tspan></text>
+         x="9.9624519"
+         y="202.39311">Example:</tspan></text>
     <g
        id="g4690"
-       transform="matrix(0.23160549,0,0,0.23160549,465.33029,174.58843)">
+       transform="matrix(0.23160549,0,0,0.23160549,489.616,41.731286)">
       <rect
          y="140.93361"
          x="-982.85712"
@@ -115,29 +115,29 @@
     <text
        xml:space="preserve"
        style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="295.12039"
-       y="308.92319"
+       x="319.4061"
+       y="176.06602"
        id="text4709"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4711"
-         x="295.12039"
-         y="308.92319">Test scores from</tspan><tspan
+         x="319.4061"
+         y="176.06602">Test scores from</tspan><tspan
          sodipodi:role="line"
-         x="297.17587"
-         y="327.45163"
+         x="321.46158"
+         y="194.59447"
          id="tspan4749">10 randomly chosen </tspan><tspan
          sodipodi:role="line"
-         x="295.12039"
-         y="345.98007"
+         x="319.4061"
+         y="213.12291"
          id="tspan4713">individuals</tspan><tspan
          sodipodi:role="line"
-         x="295.12039"
-         y="364.50851"
+         x="319.4061"
+         y="231.65135"
          id="tspan4715">from a school</tspan></text>
     <g
        id="g4695"
-       transform="matrix(0.23160549,0,0,0.23160549,473.41108,175.25015)">
+       transform="matrix(0.23160549,0,0,0.23160549,497.69679,42.393006)">
       <rect
          y="138.07649"
          x="-354.28574"
@@ -160,17 +160,17 @@
     <text
        xml:space="preserve"
        style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="449.76978"
-       y="335.32986"
+       x="474.05548"
+       y="202.4727"
        id="text4709-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="449.76978"
-         y="335.32986"
+         x="474.05548"
+         y="202.4727"
          id="tspan4715-5">Sample mean</tspan></text>
     <g
        id="g4700"
-       transform="matrix(0.23160549,0,0,0.23160549,480.83012,175.25016)">
+       transform="matrix(0.23160549,0,0,0.23160549,505.11583,42.393016)">
       <rect
          y="138.07648"
          x="277.14285"
@@ -193,25 +193,25 @@
     <text
        xml:space="preserve"
        style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="602.70007"
-       y="317.9884"
+       x="626.98578"
+       y="185.13124"
        id="text4709-2-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="604.75555"
-         y="317.9884"
+         x="629.04126"
+         y="185.13124"
          id="tspan4715-5-7">Mean school test score </tspan><tspan
          sodipodi:role="line"
-         x="602.70007"
-         y="336.51682"
+         x="626.98578"
+         y="203.65968"
          id="tspan5055">estimated</tspan><tspan
          sodipodi:role="line"
-         x="602.70007"
-         y="355.04526"
+         x="626.98578"
+         y="222.18813"
          id="tspan5366">to be 73 %</tspan></text>
     <g
        id="g5064"
-       transform="matrix(0.23160549,0,0,0.23160549,456.88651,174.37583)">
+       transform="matrix(0.23160549,0,0,0.23160549,481.17222,41.518686)">
       <rect
          y="141.85156"
          x="-1609.8611"
@@ -234,37 +234,37 @@
     <text
        xml:space="preserve"
        style="font-size:14.82275105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="142.31311"
-       y="290.39478"
+       x="166.59883"
+       y="157.53763"
        id="text4709-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="142.31311"
-         y="290.39478"
+         x="166.59883"
+         y="157.53763"
          id="tspan4715-2">The test scores from</tspan><tspan
          sodipodi:role="line"
-         x="142.31311"
-         y="308.92322"
+         x="166.59883"
+         y="176.06606"
          id="tspan5051">an entire school of</tspan><tspan
          sodipodi:role="line"
-         x="142.31311"
-         y="327.45166"
+         x="166.59883"
+         y="194.5945"
          id="tspan5053">individuals. Interested</tspan><tspan
          sodipodi:role="line"
-         x="144.36861"
-         y="345.98007"
+         x="168.65433"
+         y="213.12294"
          id="tspan5329">in estimating </tspan><tspan
          sodipodi:role="line"
-         x="144.36861"
-         y="364.50851"
+         x="168.65433"
+         y="231.65138"
          id="tspan5411">mean school </tspan><tspan
          sodipodi:role="line"
-         x="142.31311"
-         y="383.03696"
+         x="166.59883"
+         y="250.17982"
          id="tspan5333">test score</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
-       d="m 200.49832,235.68382 37.19687,0"
+       d="m 224.78403,102.82668 37.19687,-1e-5"
        id="path5413"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -274,7 +274,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
-       d="m 354.15966,235.68382 37.1969,-1e-5"
+       d="m 378.44537,102.82667 37.1969,0"
        id="path5415"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -284,7 +284,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.15802741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend-7)"
-       d="m 507.82103,235.68382 37.1969,0"
+       d="m 532.10674,102.82667 37.1969,0"
        id="path5417"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
